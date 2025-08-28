@@ -4,6 +4,14 @@ I'm a data analyst and ecological researcher with a background in predator ecolo
 
 ---
 
+## 🔗 Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=FRzw2GwAAAAJ&hl=en)  
+- [ORCID](https://orcid.org/0009-0006-4347-8049)  
+- jreding@umich.edu
+  
+---
+
 ## 🧠 Skills
 **Programming & Tools**  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -66,13 +74,3 @@ Applies GLMs, mixed-effects models, and PCA using R for ecological and policy da
 **Graduate Research – Predator–Prey Ecology in Ozark Glades 🦎🦗**   
 - Led multi-season study of predator-induced changes in grasshopper community structure  
 - Modeled behavioral and nutrient-based shifts using PCA and mixed-effects models in R  
-
-
----
-
-## 🔗 Links
-
-- [Google Scholar](https://scholar.google.com/citations?user=FRzw2GwAAAAJ&hl=en)  
-- [ORCID](https://orcid.org/0009-0006-4347-8049)  
-- jreding@umich.edu
-
