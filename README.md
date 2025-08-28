@@ -6,9 +6,9 @@ I'm a data analyst and ecological researcher with a background in predator ecolo
 
 ## 🔗 Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=FRzw2GwAAAAJ&hl=en)  
-- [ORCID](https://orcid.org/0009-0006-4347-8049)  
-- jreding@umich.edu
+- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FRzw2GwAAAAJ&hl=en)
+- [![ORCID](https://img.shields.io/badge/ORCID-000?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4347-8049)
+- [![Email](https://img.shields.io/badge/Email-jreding%40umich.edu-blue)](mailto:jreding@umich.edu)
   
 ---
 
@@ -19,6 +19,7 @@ I'm a data analyst and ecological researcher with a background in predator ecolo
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-3776AB?style=flat&labelColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 **Database Management & Stored Procedures**  
