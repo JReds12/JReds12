@@ -6,47 +6,67 @@ I'm a data analyst and ecological researcher with a background in predator ecolo
 
 ## 🧠 Skills
 **Programming & Tools**  
-![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![ArcGIS]
+![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-3776AB?style=flat&labelColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 **Database Management & Stored Procedures**  
-- Building stored procedures and dynamic SQL pipelines across Microsoft SQL Server 
-- Developing pipelines integrating PostgreSQL and Python (FastAPI, SQLAlchemy, and Prefect) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-E44D27?logo=python&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-212121?logo=prefect&logoColor=white)
+
+
+Develops stored procedures and dynamic SQL pipelines in SQL Server and PostgreSQL. Maintains production-grade reporting infrastructure using FastAPI, SQLAlchemy, and Prefect.
 
 **ETL Pipelines & Automation**  
-- Designs tools for literature extraction using large-language models
-- Created automated testing and large-batch data cleaning with Python Selenium package.
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-grey?style=flat)
+  
+Designs robust ETL workflows and automation tools in Python. Built large-batch cleaning scripts, automated test runners using Selenium, and LLM-based literature extraction utilities.
 
 **Statistical Modeling & Spatial Analysis**  
-- Applies mixed-effects models, PCA, and GLMs using R for ecological and impact data. 
-- Performs spatial analysis and map generation using ArcGIS Pro.
+![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=flat)
+![dplyr](https://img.shields.io/badge/dplyr-grey?style=flat)
+![lme4](https://img.shields.io/badge/lme4-grey?style=flat)
+![vegan](https://img.shields.io/badge/vegan-grey?style=flat)
+![car](https://img.shields.io/badge/car-grey?style=flat)
+![MuMIn](https://img.shields.io/badge/MuMIn-grey?style=flat)
+![sf](https://img.shields.io/badge/sf-grey?style=flat)
+
+Applies GLMs, mixed-effects models, and PCA using R for ecological and policy datasets. Experienced in spatial analysis and map creation using ArcGIS Pro.
+
+**Research Focus**  
+![Invasive Species](https://img.shields.io/badge/Invasive_Species-olive)
+![Conservation Biology](https://img.shields.io/badge/Conservation_Biology-teal)
+![Ecological Research](https://img.shields.io/badge/Ecology-forestgreen)
+
 
 ---
 
 ## 🐾 Previous Work
 
 **IRIS-UM – National Research Infrastructure**  
-- Maintains SQL and Python pipelines for institutional data reporting  
-- Developed tools for vendor classification and university federal research grant spending analysis  
+- Maintains SQL and Python pipelines supporting large-scale institutional reporting  
+- Developed tools for vendor classification and federal grant spending analysis  
 
 **GLANSIS, Michigan Sea Grant, and NOAA – Aquatic Invasive Species Systems 🐟🌿**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Noaa_logo.svg/80px-Noaa_logo.svg.png" height="20" />  
-- Cleaned and merged thousands species location records from U.S. and Canadian data sources   
-- Built literature-extraction tools using LLMs to support invasive species review and reporting  
-- Edited structured datasets and authored regulatory assessments for publication via [NAS](https://nas.er.usgs.gov) and [GLANSIS](https://www.glerl.noaa.gov/glansis/)
+- Cleaned and merged thousands of species location records from U.S. and Canadian sources  
+- Built LLM-powered tools to support invasive species review and impact summaries  
+- Edited structured datasets and authored regulatory assessments published via [NAS](https://nas.er.usgs.gov) and [GLANSIS](https://www.glerl.noaa.gov/glansis/)
 
 **USFWS & USGS – Invasive Species Research, Florida Keys 🐍🦝**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/US-FishAndWildlifeService-Logo.svg/80px-US-FishAndWildlifeService-Logo.svg.png" height="20" />  
-- Conducted extensive radio telemetry and camera trap research on Burmese pythons and mammal populations  
-- Created and validated occupancy models in R to link python expansion with native species decline  
 
-**Graduate Research – Predator–Prey Ecology in Ozark Glades 🦎🦗**  
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/University_of_Central_Arkansas_logo.svg/120px-University_of_Central_Arkansas_logo.svg.png" height="20" />  
-- Led field and lab-based study of trophic interactions in predator-excluded vs. predator-present lizard habitats  
-- Modeled behavioral and community-level shifts using R-based PCA and mixed models  
+- Conducted extensive radio telemetry and camera trap research on Burmese pythons and native mammals  
+- Built and validated occupancy models in R linking predator spread with mammal population declines  
+
+**Graduate Research – Predator–Prey Ecology in Ozark Glades 🦎🦗**   
+- Led multi-season study of predator-induced changes in grasshopper community structure  
+- Modeled behavioral and nutrient-based shifts using PCA and mixed-effects models in R  
+
 
 ---
 
